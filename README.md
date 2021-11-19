@@ -6,6 +6,7 @@ Self bot writted on Python for discord.
 pip install discord.py
 pip install youtube_dl
 ```
+Also download [ffmpeg](https://www.ffmpeg.org/download.html)
 
 ## Get token
 Go to [discord website](https://discord.com/channels/@me) (Logged), press f12 on your browser and f5 and go to NETWORK category and search 'science'.
